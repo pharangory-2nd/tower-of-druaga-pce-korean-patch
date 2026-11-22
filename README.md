@@ -7,3 +7,5 @@
 Windows에서는 릴리스의 패치 ZIP을 풀고 `Apply-Korean.exe`를 실행한 뒤 보유한 일본판 원본 ROM을 선택하세요. 다른 환경에서는 동봉된 BPS 패치를 사용할 수 있습니다.
 
 RetroArch의 Beetle PCE 코어에서 구동을 확인했습니다. PC엔진 실기·EverDrive와 SuperStation One에서의 구동은 미확인입니다.
+
+번역·패치·글꼴을 재사용할 때의 조건은 [구성요소별 라이선스](LICENSE.md)에서 확인할 수 있습니다.
